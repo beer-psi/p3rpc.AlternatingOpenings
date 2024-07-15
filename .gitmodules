@@ -1,0 +1,3 @@
+[submodule "submodules/SharedScans"]
+	path = submodules/SharedScans
+	url = https://github.com/T-PoseRatkechi/SharedScans.git

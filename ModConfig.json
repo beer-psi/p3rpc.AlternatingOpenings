@@ -1,0 +1,29 @@
+{
+  "ModId": "p3rpc.AlternatingOpenings",
+  "ModName": "Alternating Openings",
+  "ModAuthor": "beerpsi",
+  "ModVersion": "0.1.0",
+  "ModDescription": "Alternate between Burn My Dread/Soul Phrase/Full Moon Full Life if you wait for the opening to play on the main menu.",
+  "ModDll": "p3rpc.AlternatingOpenings.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/p3rpc.AlternatingOpenings.dll",
+  "ModR2RManagedDll64": "x64/p3rpc.AlternatingOpenings.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p3rpc.AlternatingOpenings.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "Reloaded.Memory.SigScan.ReloadedII",
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [
+    "SharedScans.Reloaded",
+    "Ryo.Reloaded"
+  ],
+  "SupportedAppId": [
+    "p3r.exe"
+  ],
+  "ProjectUrl": ""
+}

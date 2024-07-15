@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p3rpc.AlternatingOpenings", "p3rpc.AlternatingOpenings.csproj", "{A6399B16-A262-4CDD-AB38-AE7AF11CA28A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedScans.Interfaces", "submodules\SharedScans\SharedScans.Interfaces\SharedScans.Interfaces.csproj", "{7279C355-4ABD-4943-B5B8-8321F9ECFB1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6399B16-A262-4CDD-AB38-AE7AF11CA28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6399B16-A262-4CDD-AB38-AE7AF11CA28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6399B16-A262-4CDD-AB38-AE7AF11CA28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6399B16-A262-4CDD-AB38-AE7AF11CA28A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7279C355-4ABD-4943-B5B8-8321F9ECFB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7279C355-4ABD-4943-B5B8-8321F9ECFB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7279C355-4ABD-4943-B5B8-8321F9ECFB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7279C355-4ABD-4943-B5B8-8321F9ECFB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
